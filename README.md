@@ -30,16 +30,21 @@ A data analysis mini-project using Python, Excel, and machine learning to explor
 4. View results in the Excel report or generated plots
 
 ## ✅ Outcomes
-<img width="458" alt="Screenshot 2025-04-08 at 5 43 58 PM" src="https://github.com/user-attachments/assets/e5ae87cc-0a8b-4ebd-a412-e100438c0050" />
-![image](https://github.com/user-attachments/assets/787e4329-9d76-43b0-bca9-aa99731a7578)
-![image](https://github.com/user-attachments/assets/f54b73a6-0f4c-4b83-9d50-e3f326d291d9)
-![image](https://github.com/user-attachments/assets/020039b8-775b-4893-8cab-5b1ffef7a206)
 
 
 - Identified patterns in returned products
 - Built a simple logistic regression model to predict returns
 - Exported analysis to styled Excel for reporting
+<img width="458" alt="Screenshot 2025-04-08 at 5 43 58 PM" src="https://github.com/user-attachments/assets/e5ae87cc-0a8b-4ebd-a412-e100438c0050" />
+<img width="588" alt="Screenshot 2025-04-08 at 5 49 12 PM" src="https://github.com/user-attachments/assets/c9139a2e-2bdd-44a6-a51c-6467435c8039" />
+<img width="573" alt="Screenshot 2025-04-08 at 5 49 33 PM" src="https://github.com/user-attachments/assets/e1dbb7d2-76be-4aec-af74-f6cfef75f793" />
+<img width="523" alt="Screenshot 2025-04-08 at 5 48 23 PM" src="https://github.com/user-attachments/assets/7d1e80fa-f0ea-4bfe-8aab-c1e77eadbc52" />
 
+- In Excel dashboard
+
+
+  ![image](https://github.com/user-attachments/assets/2485b175-7756-4cdd-8b43-bd9c2e645df7)
+ 
 
 
 
